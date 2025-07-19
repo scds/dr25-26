@@ -2,7 +2,7 @@
 layout: default
 title: Common Elements
 description: SCDS Do More with Digital Scholarship workshop series
-nav_order: 100
+nav_order: 99999999
 ---
 
 # Common Elements
