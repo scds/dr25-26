@@ -21,13 +21,15 @@ This session is ideal for researchers, librarians, and graduate students interes
 
 ## Workshop Preparation 
 
-Download VOSviewer (https://www.vosviewer.com/download) 
+Download VOSviewer [https://www.vosviewer.com/download](https://www.vosviewer.com/download) 
 
 ## Facilitator Bio
 
 Jack Young (he/him) is McMaster’s Research Impact Librarian, supporting the use of bibliometric data to enhance the reporting and strategic planning practices of the University’s academic departments, institutes, and researchers.
 
 ## Workshop Slides
+
+Coming soon.
 
 <!-- <embed src="assets/docs/Creating-and-Sharing-Maps-with-ArcGIS-Online.pdf" style="border:none;" width="100%" height="466px">
 

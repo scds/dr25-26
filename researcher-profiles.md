@@ -29,6 +29,8 @@ Sabrina Kirby (she/her) is the Research Technology Analyst for the McMaster Expe
 
 ## Workshop Slides
 
+Coming soon.
+
 <!-- <embed src="assets/docs/Creating-and-Sharing-Maps-with-ArcGIS-Online.pdf" style="border:none;" width="100%" height="466px">
 
 [Download as PDF.](assets/docs/Creating-and-Sharing-Maps-with-ArcGIS-Online.pdf)-->
