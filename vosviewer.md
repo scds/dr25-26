@@ -6,7 +6,7 @@ nav_order: 20260211
 
 <img src="assets/img/vosviewer.png" alt="Workshop Title Slide" width="100%">
 
-# Establishing and Maintaining Researcher Profiles
+# Visualizing Bibliometric Networks with VOSViewer
 
 Curious about how research networks form and evolve? Bibliometric visualizations can help you uncover patterns in scholarly publishing—who’s collaborating, what topics are trending, and how ideas move across disciplines. In this hands-on workshop, you’ll learn how to use VOSviewer, a free and open-source tool designed specifically for visualizing bibliometric networks.
 
