@@ -21,7 +21,7 @@ This session is ideal for researchers, creators, and academic staff working with
 
 ## Workshop Preparation 
 
-Review the webinar recording for [Establishing and Maintaining Research Profiles](/researcher-profiles)
+Review the webinar recording for [Establishing and Maintaining Research Profiles](researcher-profiles)
 
 ## Facilitator Bio
 
