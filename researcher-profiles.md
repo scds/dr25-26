@@ -29,8 +29,9 @@ Sabrina Kirby (she/her) is the Research Technology Analyst for the McMaster Expe
 
 ## Workshop Slides
 
-Coming soon.
+<embed src="assets/docs/Research-Profile-Workshop-10-21.pdf" style="border:none;" width="100%" height="466px">
 
-<!-- <embed src="assets/docs/Creating-and-Sharing-Maps-with-ArcGIS-Online.pdf" style="border:none;" width="100%" height="466px">
+[Download as PDF.](assets/docs/Research-Profile-Workshop-10-21.pdf)
 
-[Download as PDF.](assets/docs/Creating-and-Sharing-Maps-with-ArcGIS-Online.pdf)-->
+<!-- ## Event Recording
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/8258fc38-a287-4bf2-8a88-2815e4d1701b/public"></iframe> [View original here.](https://echo360.ca/media/8258fc38-a287-4bf2-8a88-2815e4d1701b/public)-->
