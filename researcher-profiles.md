@@ -33,5 +33,5 @@ Sabrina Kirby (she/her) is the Research Technology Analyst for the McMaster Expe
 
 [Download as PDF.](assets/docs/Research-Profile-Workshop-10-21.pdf)
 
-<!-- ## Event Recording
-<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/8258fc38-a287-4bf2-8a88-2815e4d1701b/public"></iframe> [View original here.](https://echo360.ca/media/8258fc38-a287-4bf2-8a88-2815e4d1701b/public)-->
+## Workshop Recording
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/cff737d3-a895-4322-a1ca-410426db8e27/public"></iframe> [View original here.](https://echo360.ca/media/cff737d3-a895-4322-a1ca-410426db8e27/public)
