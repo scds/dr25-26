@@ -12,7 +12,8 @@ The ability to create effective visualizations of your research impact is a valu
 
 Participants will learn how to: 
 - Generate ready-made impact visualizations within a variety of bibliometric tools at McMaster. 
-- Utilize raw bibliometric data and custom templates to create effective visualizations using Excel.  - Effectively incorporate research impact visualizations into reports, grant applications, and award nominations. 
+- Utilize raw bibliometric data and custom templates to create effective visualizations using Excel.  
+- Effectively incorporate research impact visualizations into reports, grant applications, and award nominations. 
 
 ## Workshop Preparation 
 
