@@ -29,8 +29,12 @@ Jack Young (he/him) is McMaster’s Research Impact Librarian, supporting the us
 
 ## Workshop Slides
 
-Coming soon.
+<embed src="assets/docs/ntrosWorkshop2026.pdf" style="border:none;" width="100%" height="466px">
 
-<!-- <embed src="assets/docs/Creating-and-Sharing-Maps-with-ArcGIS-Online.pdf" style="border:none;" width="100%" height="466px">
+[Download as PDF.](assets/docs/ntrosWorkshop2026.pdf)
 
-[Download as PDF.](assets/docs/Creating-and-Sharing-Maps-with-ArcGIS-Online.pdf)-->
+
+## Workshop Recording
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/8c03c7cc-d550-41bb-ac52-a55ea4e648a8/public"></iframe> [View original here.](https://echo360.ca/media/8c03c7cc-d550-41bb-ac52-a55ea4e648a8/public)
+
+

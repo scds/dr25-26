@@ -29,5 +29,3 @@ Jack Young (he/him) is McMaster’s Research Impact Librarian, supporting the us
 
 [Download as PDF.](assets/docs/ImpactVisualizationWorkshop2025.pdf)
 
-## Workshop Recording
-<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/8c03c7cc-d550-41bb-ac52-a55ea4e648a8/public"></iframe> [View original here.](https://echo360.ca/media/8c03c7cc-d550-41bb-ac52-a55ea4e648a8/public)
